@@ -1,6 +1,9 @@
 # ApplicationBasedStandalone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15
+
+Based on https://medium.com/@zayani.zied/angular-application-based-on-standalone-components-with-lazy-loading-and-shared-elements-417f36682968
+
 
 ## Development server
 
