@@ -12,6 +12,7 @@ if (environment.production) {
 bootstrapApplication(AppComponent, {
   providers: [
     provideRouter(APP_ROUTES)
+    // Interceptors here. { provide: HTTP_INTERCEPTORS, useExisting: AuthInterceptor, multi: true },
   ]
 })
   .catch( err => console.error(err))
